@@ -14,7 +14,7 @@ Here's what you'll find in this repo:
 ```
   DataMining-Superheroes/
   ├── README.md  # Project overview 📖
-  ├── .gitignore # Files and folders to ignore by git 🚫
+  ├── .gitignore # Files Git should totally ignore 🚫
   ├── environment.yml # Conda environment with all required libraries (pinned versions) 🐍
   ├── code/
   │   └── datamining.py #  Main script that scrapes superhero data and processes it 🕵️‍♂️ 
