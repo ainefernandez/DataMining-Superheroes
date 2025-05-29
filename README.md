@@ -74,6 +74,7 @@ touch .env
 Ready to dive into the superhero multiverse? Let’s get that data! 🌌
 
 Make sure your virtual environment is activated 🧪  
+
 Then run the scraping script:
 
 ```bash
