@@ -46,5 +46,26 @@ conda activate superhero-scraper
 
 To deactivate the environment, just run: 
 ```bash
-conda deactivate superhero-scraper
+conda deactivate 
 ```
+### 3. 🔐 API Access Token & `.env` File
+
+To fetch data from the Superhero API, you’ll need an access token. Don’t worry — it’s quick, easy, and free!
+
+🧑‍💻 **Step 1**: Make sure you have a valid GitHub account.  
+🔗 **Step 2**: Head over to [Superhero API](https://superheroapi.com) and generate your personal access token.
+
+⚠️ **Important**: This token is private and should **never** be shared or pushed to GitHub.
+
+To keep your token safe and run the scripts **without exposing it**, follow these steps:
+
+1. Create a `.env` file in the root directory:
+```bash
+touch .env
+```
+2. Open the .env file and add your access token like this:
+```env
+   access_token=your_access_token_here
+```
+🦸‍♂️ That’s it! Just like a superhero's secret identity, your access token will stay safe, far away from the evils of data leakage!
+
