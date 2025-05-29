@@ -93,7 +93,7 @@ Saves the final dataset as a CSV file in the `data/` folder 📊
 
 ## 📚 Variables Dictionary
 
-Here's your guide to the columns in the dataset — no x-ray vision required! 🦸‍♂️🔍
+Here's your guide to the columns in the dataset 🔍: 
 
 | Variable         | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
