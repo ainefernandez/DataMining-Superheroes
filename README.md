@@ -10,13 +10,14 @@ This project's purpose is to scrape data from the [Superhero API](https://superh
 
 ## Repo structure 
 
+Here's what youll find in this repo: 
 ```
   DataMining-Superheroes/
-  ├── README.md
-  ├── .gitignore
-  ├── environment.yml
+  ├── README.md  # Project overview 📖
+  ├── .gitignore # Files and folders to ignore by git 🚫
+  ├── environment.yml # Conda environment with all required libraries (pinned versions) 🐍
   ├── code/
-  │   └── datamining.py    
+  │   └── datamining.py #  Main script that scrapes superhero data and processes it 🕵️‍♂️ 
   └── data/
-      └── superheroes.csv       
+      └── superheroes.csv  # Final dataset with the collected superhero data as a CSV file 🦸‍♂️
   ```
