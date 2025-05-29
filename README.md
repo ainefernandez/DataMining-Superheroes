@@ -87,7 +87,7 @@ Constructs a record for each character 🧬
 
 Ignores any characters with missing power stats — because we need the full picture of our heroes' and villains' abilities! 💥
 
-Saves the final dataset as a CSV file in the `data/` folder 📊
+Saves the collected data as a CSV file in `data/superheroes.csv` 📊
 
 🦸‍♀️ Sit back, relax, and let your favorite heroes (and villains) fill up your dataset!
 
