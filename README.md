@@ -25,7 +25,17 @@ Here's what you'll find in this repo:
 
 Follow these simple steps to get your superhero data adventure started:
 
-1. **Clone the repo**  
+### 1. Clone the repo**  
    ```git
    git clone https://github.com/your-username/DataMining-Superheroes.git
    ```
+### 2. Set up the virtual environment
+
+-Make sure you have Conda installed 
+-Then run in terminal: 
+```bash
+conda env create -f environment.yml
+```
+-Finally activate the virtual environment: 
+```bash
+conda activate datamining-superheroes
