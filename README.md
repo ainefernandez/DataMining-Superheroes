@@ -116,3 +116,12 @@ Here's your guide to the columns in the dataset — no x-ray vision required! �
 
 Unleash your inner data hero and start exploring! 🧙‍♂️📊🦸
 
+## 🙌 Acknowledgments
+
+Big thanks to the real heroes behind this project! 🦸‍♂️🦸‍♀️
+
+- The [Superhero API team](https://superheroapi.com) for sharing an awesome accessible data source!  
+- Open source devs and the Python community for all their amazing tools 🐍   
+- And of course, YOU — thanks for checking this out and joining in the fun! 🚀
+
+
