@@ -48,7 +48,7 @@ To deactivate the environment, just run:
 ```bash
 conda deactivate 
 ```
-### 3. 🔐 API Access Token & `.env` File
+### 3. 🔐 API Access Token & .env File
 
 To fetch data from the Superhero API, you’ll need an access token. Don’t worry, it’s quick, easy, and free!
 
