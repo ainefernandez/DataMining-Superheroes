@@ -21,3 +21,10 @@ Here's what you'll find in this repo:
   └── data/
       └── superheroes.csv  # Final dataset with the collected superhero data as a CSV file 🦸‍♂️
   ```
+## How to run the project?
+
+Follow these simple steps to get your superhero data adventure started:
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/DataMining-Superheroes.git
