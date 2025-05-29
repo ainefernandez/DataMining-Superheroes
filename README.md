@@ -81,12 +81,12 @@ python code/datamining.py
 ```
 🛠️ What this script does:
 
-Loops through all character IDs in the API (from 1 to 732) 🆔
+Loops through all character IDs in the API (from 1 to 731) 🆔
 
 Constructs a record for each character 🧬
 
 Ignores any characters with missing power stats — because we need the full picture of our heroes' and villains' abilities! 💥
 
-Saves the final dataset as a CSV file in the data/ folder 🧾
+Saves the final dataset as a CSV file in the `data/` folder 🧾
 
 🦸‍♀️ Sit back, relax, and let your favorite heroes (and villains) fill up your dataset!
