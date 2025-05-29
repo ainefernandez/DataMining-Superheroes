@@ -1,4 +1,4 @@
-# 🦸‍♂️🦹‍♀️ Superhero Data Scraper 🚀  
+# 🦸‍♂️🦹‍♀️ Superhero Data Scraper 
 
 For superheroes, villains, antiheroes, and everyone in between — this one's for the geeks!
 
@@ -21,21 +21,30 @@ Here's what you'll find in this repo:
   └── data/
       └── superheroes.csv  # Final dataset with the collected superhero data as a CSV file 🦸‍♂️
   ```
-## How to run the project?
+## 🚀 How to run the project? 
 
-Follow these simple steps to get your superhero data adventure started:
+Ready to dive into your superhero data adventure? Just follow these quick steps:
 
-### 1. Clone the repo**  
-   ```git
-   git clone https://github.com/your-username/DataMining-Superheroes.git
-   ```
-### 2. Set up the virtual environment
+### 1. Clone the repo 📥  
+```bash
+git clone https://github.com/your-username/DataMining-Superheroes.git
+```
+### 2. Set up the virtual environment 🛠️
 
--Make sure you have Conda installed 
--Then run in terminal: 
+Make sure you have Conda installed ✅
+
+Then, create the environment by running:
 ```bash
 conda env create -f environment.yml
 ```
--Finally activate the virtual environment: 
+
+Activate your new superhero scraper environment: 
+
 ```bash
-conda activate datamining-superheroes
+conda activate superhero-scraper
+```
+
+To deactivate the environment, just run: 
+```bash
+conda deactivate superhero-scraper
+```
