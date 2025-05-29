@@ -91,4 +91,28 @@ Saves the final dataset as a CSV file in the `data/` folder 📊
 
 🦸‍♀️ Sit back, relax, and let your favorite heroes (and villains) fill up your dataset!
 
-## Variables dictionary 
+## 📚 Variables Dictionary
+
+Here's your guide to the columns in the dataset — no x-ray vision required! 🦸‍♂️🔍
+
+| Variable         | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| `id`             | Unique ID assigned to each character 🔢                                     |
+| `superhero_name` | The public alias or superhero/villain name 🦹‍♀️🦸‍♂️                         |
+| `real_name`      | The character's true identity behind the mask 🎭                            |
+| `publisher`      | Comic universe or publisher (e.g., Marvel, DC) 🏢                          |
+| `alignment`      | Good 😇, bad 😈, or neutral 😐 — choose your team!                         |
+| `gender`         | Gender identity 🚻                                                         |
+| `race`           | Species or racial background (e.g., Human, Kryptonian) 👽                  |
+| `occupation`     | Their job when they’re not saving (or destroying) the world 💼             |
+| `intelligence`   | Measured brainpower 🧠                                                     |
+| `strength`       | Raw physical strength 💪                                                   |
+| `speed`          | How fast they move ⚡                                                     |
+| `durability`     | Ability to resist damage 🛡️                                               |
+| `power`          | Overall superpower rating 🔮                                               |
+| `combat`         | Fighting skills and martial arts mastery 👊                               |
+| `image_url`      | Link to the character’s portrait image 🖼️                                 |
+| `api_url`        | Direct URL to the character’s JSON data endpoint 🌐                         |
+
+Unleash your inner data hero and start exploring! 🧙‍♂️📊🦸
+
