@@ -26,5 +26,6 @@ Here's what you'll find in this repo:
 Follow these simple steps to get your superhero data adventure started:
 
 1. **Clone the repo**  
-   ```bash
+   ```git
    git clone https://github.com/your-username/DataMining-Superheroes.git
+   ```
