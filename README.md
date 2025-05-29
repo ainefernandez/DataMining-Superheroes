@@ -1,6 +1,6 @@
 # 🦸‍♂️🦹‍♀️ Superhero Data Scraper 
 
-For superheroes, villains, antiheroes, and everyone in between — this one's for the geeks!
+For superheroes, villains, antiheroes, and everyone in between, this one's for the geeks!
 
 Ever wondered who’s your bet in a head-to-head — Batman 🦇 or Iron Man 🤖?  
 Ever thought being a billionaire might actually increase your odds of becoming a superhero? 💸  
