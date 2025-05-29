@@ -97,11 +97,11 @@ Here's your guide to the columns in the dataset — no x-ray vision required! �
 
 | Variable         | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| `id`             | Unique ID assigned to each character 🔢                                     |
+| `id`             | Unique ID assigned to each character 🆔                                    |
 | `superhero_name` | The public alias or superhero/villain name 🦹‍♀️🦸‍♂️                         |
 | `real_name`      | The character's true identity behind the mask 🎭                            |
 | `publisher`      | Comic universe or publisher (e.g., Marvel, DC) 🏢                          |
-| `alignment`      | Good 😇, bad 😈, or neutral 😐 — choose your team!                         |
+| `alignment`      | Good 😇, bad 😈, or neutral 😐                         |
 | `gender`         | Gender identity 🚻                                                         |
 | `race`           | Species or racial background (e.g., Human, Kryptonian) 👽                  |
 | `occupation`     | Their job when they’re not saving (or destroying) the world 💼             |
