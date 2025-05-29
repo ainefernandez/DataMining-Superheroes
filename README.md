@@ -50,7 +50,7 @@ conda deactivate
 ```
 ### 3. 🔐 API Access Token & `.env` File
 
-To fetch data from the Superhero API, you’ll need an access token. Don’t worry — it’s quick, easy, and free!
+To fetch data from the Superhero API, you’ll need an access token. Don’t worry, it’s quick, easy, and free!
 
 🧑‍💻 **Step 1**: Make sure you have a valid GitHub account.  
 🔗 **Step 2**: Head over to [Superhero API](https://superheroapi.com) and generate your personal access token.
@@ -69,3 +69,24 @@ touch .env
 ```
 🦸‍♂️ That’s it! Just like a superhero's secret identity, your access token will stay safe, far away from the evils of data leakage!
 
+### 4. 🕷️ Scrape the Data!
+
+Ready to dive into the superhero multiverse? Let’s get that data! 🌌
+
+Make sure your virtual environment is activated 🧪  
+Then run the scraping script:
+
+```bash
+python code/datamining.py
+```
+🛠️ What this script does:
+
+Loops through all character IDs in the API (from 1 to 732) 🆔
+
+Constructs a record for each character 🧬
+
+Ignores any characters with missing power stats — because we need the full picture of our heroes' and villains' abilities! 💥
+
+Saves the final dataset as a CSV file in the data/ folder 🧾
+
+🦸‍♀️ Sit back, relax, and let your favorite heroes (and villains) fill up your dataset!
