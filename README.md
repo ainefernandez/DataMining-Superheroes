@@ -8,9 +8,9 @@ Can gender, occupation, and power stats predict who saves the day — or destroy
 
 This project's purpose is to scrape data from the [Superhero API](https://superheroapi.com), bringing your comic book and cinematic universe favorites into the world of data science, econometrics, and analytics! 📊💥
 
-## Repo structure 
+## 📁 Repo structure 
 
-Here's what youll find in this repo: 
+Here's what you'll find in this repo:
 ```
   DataMining-Superheroes/
   ├── README.md  # Project overview 📖
